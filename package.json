@@ -4,7 +4,7 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "build": "tailwind build src/style.css -o public/style.css",
+    "start": "tailwind build src/style.css -o public/style.css",
     "watch": "tailwind build src/style.css -o public/style.css --watch"
   },
   "keywords": [],
